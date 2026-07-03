@@ -1,138 +1,97 @@
 <div align="center">
-  <!-- Massive Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c8ff&height=250&section=header&text=Paras%20Fegade&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20(AIML)%20%7C%20Backend%20Architect%20%7C%20Automation%20Specialist&descAlignY=75&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=ROOT_ACCESS:%20PARAS_FEGADE&fontSize=50&fontColor=00FF41&animation=glinting" width="100%"/>
 </div>
 
 <div align="center">
-  <!-- Dynamic Typing Subheader -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c8ff&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Backend+Systems;Engineering+AI-Driven+Automation+Workflows;Targeting+Fintech+%26+High-Frequency+Trading+(HFT);Advancing+Enterprise+Java+Full-Stack+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E_System+Initialization+Complete;%3E_Designation:+Computer+Science+(AIML)+Engineer;%3E_Specialization:+Backend+Architecture+%26+Automation;%3E_Targeting:+High-Frequency+Trading+(HFT)+%26+Fintech;%3E_Status:+Online+%26+Deploying+Code" alt="Terminal Typing" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/parasfegade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/parasfegade">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
   </a>
   <a href="mailto:Parasfegade24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/SECURE_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🚀 The Engineering Manifesto
+###  टर्मिनल > SYSTEM_OVERVIEW
 
-I am a Bachelor of Engineering student specializing in **Computer Science (AIML)** at the University of Mumbai, driven by a highly motivated, business-oriented mindset. My engineering philosophy revolves around breaking down complex problems, automating repetitive workflows, and building systems that scale. I am actively expanding my expertise in **Java Full-Stack architecture** and high-performance **REST APIs**, with my sights firmly set on innovating within the **Fintech** and **High-Frequency Trading (HFT)** sectors.
-
-Whether I am engineering autonomous Discord moderation systems (like *DungeonKeeper*), designing personalized AI-mentors, or building database platforms (*Cinemax-Pro*), I leverage AI-assisted coding to accelerate development and deliver production-ready software. 
+I am an engineering student at the University of Mumbai, specializing in **Computer Science and AIML**[span_1](start_span)[span_1](end_span). My operations are strictly focused on engineering high-performance backend architecture, deploying robust REST APIs, and writing automated workflow scripts[span_2](start_span)[span_2](end_span). I operate with a fast-learning, execution-first protocol, heavily leveraging AI-assisted development tools to architect solutions that scale[span_3](start_span)[span_3](end_span). I am currently advancing my stack in **Java Full-Stack** environments to penetrate the Fintech and HFT sectors[span_4](start_span)[span_4](end_span).
 
 ---
 
-### 🧰 Comprehensive Technology Ecosystem
+### ⚙️ > THE_TECH_ARSENAL (MASSIVE STACK)
 
-<details open>
-<summary><b>🔹 Core Languages & Development</b></summary>
-<br>
+Below is the complete footprint of my technical capabilities, ranging from low-level database operations to high-level system analytics[span_5](start_span)[span_5](end_span).
+
+**[ 01_CORE_LANGUAGES ]**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Java_(Enterprise)-000000?style=for-the-badge&logo=java&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
 </p>
 
-*   **Python:** Advanced scripting, voice-controlled system automation, and AI integrations.
-*   **Java:** Object-oriented design, full-stack enterprise architecture, and Maven test suites.
-*   **SQL & JavaScript:** Relational database querying and dynamic client-side scripting.
-
-</details>
-
-<details open>
-<summary><b>🔹 Backend Architecture & APIs</b></summary>
-<br>
+**[ 02_BACKEND_&_API_ARCHITECTURE ]**
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CRUD_Operations-000000?style=for-the-badge&logo=databricks&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/RestTemplate-000000?style=for-the-badge&logo=spring&logoColor=00FF41" />
 </p>
 
-*   **FastAPI & REST APIs:** Architecting high-speed, lightweight endpoints for robust data flow.
-*   **Database Management:** Implementing complete CRUD operations, utilizing SQLAlchemy ORM, and managing SQLite3/MySQL infrastructures.
-*   **Integration:** Connecting external services via RestTemplate and validating message ingestion.
-
-</details>
-
-<details open>
-<summary><b>🔹 Data Science, AI & Analytics</b></summary>
-<br>
+**[ 03_DATA_INTELLIGENCE_&_MACHINE_LEARNING ]**
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/EDA_Protocols-000000?style=for-the-badge&logo=jupyter&logoColor=00FF41" />
 </p>
 
-*   **Data Engineering:** Exploratory Data Analysis (EDA), forensic data classification, and complex metric tracking.
-*   **Visualization:** Engineering interactive business dashboards using Tableau, Matplotlib, and Seaborn.
-*   **AI Implementation:** Building customized AI mentors that track daily progress and optimize productivity workflows.
-
-</details>
-
-<details open>
-<summary><b>🔹 DevOps, Tooling & Frontend</b></summary>
-<br>
+**[ 04_INFRASTRUCTURE,_TESTING_&_UI ]**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_AI-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git_Control-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Maven_Test_Suites-000000?style=for-the-badge&logo=apachemaven&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=00FF41" />
 </p>
-
-*   **Workflow Acceleration:** Utilizing Git/GitHub for version control and leveraging AI-assisted coding (Cursor/ChatGPT) for rapid prototyping.
-*   **System Environments:** Basic Docker containerization and comprehensive debugger-driven inspection.
-*   **UI/UX:** Crafting user interfaces with HTML/CSS and developing desktop GUI applications using Tkinter.
-
-</details>
 
 ---
 
-### 🏆 Professional Milestones & Virtual Experience
+### 🛡️ > SYSTEM_OPERATIONS & CAPABILITIES
 
-> **Software Engineering Simulation — Forage**
-> *Engineered robust backend systems by connecting services to external REST Incentive APIs using RestTemplate. Ensured absolute system integrity by verifying transactional behaviors through advanced Maven test suites and debugger-driven inspections.*
-
-> **Data Analytics Simulation — Deloitte Australia (Forage)**
-> *Executed complex data analytics by applying forensic technology methodologies. Engineered and deployed interactive data dashboards in Tableau to visualize critical business metrics, supporting high-level decision-making processes.*
-
-> **Certified Python Programmer (CPP) — E-Max Council (A+ Grade | 86%)**
-> *Mastered an advanced curriculum encompassing deep Python architecture, SQLite3 database integration, array processing via NumPy/Pandas, and graphical implementation using Tkinter and Matplotlib.*
+*   **API Interfacing & Transactional Workflows:** Engineered connections to external REST APIs using RestTemplate, optimizing system data flow[span_6](start_span)[span_6](end_span). 
+*   **System Integrity & Debugging:** Verified backend behavioral integrity by executing Maven test suites and utilizing deep debugger-driven inspection across complex database operations[span_7](start_span)[span_7](end_span).
+*   **Forensic Data Analytics:** Processed, classified, and analyzed complex data metrics using Excel and forensic technology logic, successfully translating raw data into interactive Tableau visualization dashboards[span_8](start_span)[span_8](end_span).
+*   **Advanced Python Automation:** Mastered advanced Python scripting paradigms, utilizing libraries like SQLite3 for database logic and Matplotlib/Tkinter for visual data mapping[span_9](start_span)[span_9](end_span).
 
 ---
 
-### 🛰️ Advanced Telemetry & GitHub Analytics
+### 📊 > TELEMETRY_&_RADAR
 
 <div align="center">
-  <!-- Dynamic Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=parasfegade&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parasfegade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF41&text_color=A9B2C3&icon_color=00FF41" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasfegade&theme=tokyonight&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakNum=A9B2C3&sideNums=A9B2C3&dates=A9B2C3" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parasfegade&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Paras's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasfegade&theme=dracula&hide_border=true&background=0D1117" alt="Paras's GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasfegade&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasfegade&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF41&text_color=A9B2C3" alt="Top Languages" width="60%" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parasfegade&label=SYSTEM%20PINGS&color=00c8ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=parasfegade&label=SYSTEM_PINGS&color=00FF41&style=for-the-badge" alt="Profile Views" />
 </p>
