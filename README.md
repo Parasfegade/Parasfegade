@@ -15,10 +15,10 @@
 
 ### 👨‍💻 About Me
 
-I am a Bachelor of Engineering student at the University of Mumbai, specializing in **Computer Science and Artificial Intelligence & Machine Learning (AIML)**[span_1](start_span)[span_1](end_span). I am deeply passionate about building scalable backend architectures, automating complex daily workflows, and engineering robust REST APIs[span_2](start_span)[span_2](end_span). I operate with a fast-learning methodology, utilizing AI-assisted coding to accelerate development and solve real-world problems[span_3](start_span)[span_3](end_span).
+I am a Bachelor of Engineering student at the University of Mumbai, specializing in **Computer Science and Artificial Intelligence & Machine Learning (AIML)**. I am deeply passionate about building scalable backend architectures, automating complex daily workflows, and engineering robust REST APIs. I operate with a fast-learning methodology, utilizing AI-assisted coding to accelerate development and solve real-world problems.
 
-- 🔭 **Currently working on:** Advancing my expertise in **Java Full-Stack** development and enterprise system design[span_4](start_span)[span_4](end_span).
-- 🌱 **Currently learning:** Advanced Data Analytics, Forensic Technology integrations, and Maven-driven system testing[span_5](start_span)[span_5](end_span).
+- 🔭 **Currently working on:** Advancing my expertise in **Java Full-Stack** development and enterprise system design.
+- 🌱 **Currently learning:** Advanced Data Analytics, Forensic Technology integrations, and Maven-driven system testing.
 - 🎯 **Domain Focus:** Actively engineering my skillset to secure high-impact roles in the **Fintech** and **High-Frequency Trading (HFT)** sectors.
 - ⚡ **Fun Fact:** I build personalized AI-mentor tools and intelligent automation systems to optimize productivity.
 
@@ -26,7 +26,7 @@ I am a Bachelor of Engineering student at the University of Mumbai, specializing
 
 ### 🛠️ Languages & Tools 
 
-Below is a comprehensive overview of my tech stack, reflecting my capabilities across backend development, data intelligence, and system operations[span_6](start_span)[span_6](end_span).
+Below is a comprehensive overview of my tech stack, reflecting my capabilities across backend development, data intelligence, and system operations.
 
 #### 🔹 Core Engineering
 <p>
